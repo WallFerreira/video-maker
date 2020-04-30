@@ -18,8 +18,15 @@
   "homepage": "https://github.com/WallFerreira/video-maker#readme",
   "dependencies": {
     "algorithmia": "^0.3.10",
+    "googleapis": "^49.0.0",
     "ibm-watson": "^5.5.0",
     "readline-sync": "^1.4.10",
     "sbd": "^1.0.18"
+  },
+  "devDependencies": {
+    "@types/jest": "^25.2.1",
+    "jest": "^25.5.2",
+    "ts-jest": "^25.4.0",
+    "typescript": "^3.8.3"
   }
 }
